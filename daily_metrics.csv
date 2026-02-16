@@ -1,0 +1,9 @@
+account,date,Classification,daily_pnl,trades_count,avg_leverage,avg_size,win_rate
+acct_1,2018-02-01,Fear,120.5,1,3.2,0.5,1.0
+acct_1,2018-02-02,Extreme Fear,30.0,1,1.5,0.1,1.0
+acct_1,2018-02-04,Extreme Fear,75.0,1,3.5,0.4,1.0
+acct_2,2018-02-01,Fear,-45.0,1,2.0,0.2,0.0
+acct_2,2018-02-03,Fear,-10.0,1,2.5,0.3,0.0
+acct_2,2018-02-05,Extreme Fear,50.0,1,2.2,0.6,1.0
+acct_3,2018-02-02,Extreme Fear,200.0,1,4.0,1.0,1.0
+acct_3,2018-02-05,Extreme Fear,-5.0,1,1.8,0.2,0.0
